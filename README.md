@@ -40,8 +40,8 @@ Esta API utiliza a API OMDB (The Open Movie Database) para buscar informações 
 
 - Tenha em mente que o OMDB oferece diferentes níveis de acesso à API, dependendo do seu plano de assinatura. Certifique-se de respeitar os termos de uso da API OMDB e de estar ciente de quaisquer limitações em relação ao uso gratuito.
 
-![Alt text](01.png)
+![Alt text](01-1.png)
 
-![Alt text](02.png)
+![Alt text](02-1.png)
 
-![Alt text](03.png)
+![Alt text](03-1.png)
