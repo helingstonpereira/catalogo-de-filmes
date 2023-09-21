@@ -39,5 +39,3 @@ Esta API utiliza a API OMDB (The Open Movie Database) para buscar informações 
 - Este código é apenas uma demonstração básica de como criar uma interface de catálogo de filmes usando a API OMDB. Você pode personalizá-lo e expandi-lo de acordo com suas necessidades.
 
 - Tenha em mente que o OMDB oferece diferentes níveis de acesso à API, dependendo do seu plano de assinatura. Certifique-se de respeitar os termos de uso da API OMDB e de estar ciente de quaisquer limitações em relação ao uso gratuito.
-
-![Alt text](image.png)
